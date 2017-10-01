@@ -1,3 +1,4 @@
 human.txt
 *.log
 log/*
+*.orig
