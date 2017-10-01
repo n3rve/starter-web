@@ -15,7 +15,7 @@ To test comparisions
 This may not go as planned
 
 ## Hello
-
+Please fork this repository and issue pull requests for review.
 
 ## Copyright
 Ralph Otowo learning
