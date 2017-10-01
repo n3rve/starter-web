@@ -1,6 +1,6 @@
-# Starter Web Repo
-## Learning Git Easy
-This repository is for showing how Git and GitHub work
+# Starter Web Repo by Ralph Otowo
+## Learning Git 
+This repository is for showing how Git and GitHub work. Adding text for rebase example.
 
 ## Purpose
 Becoming a git expoert
