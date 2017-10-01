@@ -9,4 +9,4 @@ Becoming a git expoert
 Sample website with plenty of files for demos
 
 ## New section test
-To test
+To test comparisions
