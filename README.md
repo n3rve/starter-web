@@ -7,3 +7,6 @@ Becoming a git expoert
 
 ## How to Contribute 
 Sample website with plenty of files for demos
+
+## New section test
+To test
