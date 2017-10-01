@@ -10,3 +10,8 @@ Sample website with plenty of files for demos
 
 ## New section test
 To test comparisions
+
+## Projects
+This may not go as planned
+
+## Hello
